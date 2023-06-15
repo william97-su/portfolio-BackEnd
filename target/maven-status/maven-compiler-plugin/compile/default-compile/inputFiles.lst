@@ -25,12 +25,12 @@ C:\Users\Hp\Desktop\Project ArgProg\BackEnd\src\main\java\com\portfolio\wmg\Enti
 C:\Users\Hp\Desktop\Project ArgProg\BackEnd\src\main\java\com\portfolio\wmg\Repository\IPersonaRepository.java
 C:\Users\Hp\Desktop\Project ArgProg\BackEnd\src\main\java\com\portfolio\wmg\Repository\REducacion.java
 C:\Users\Hp\Desktop\Project ArgProg\BackEnd\src\main\java\com\portfolio\wmg\Controller\PersonaController.java
-C:\Users\Hp\Desktop\Project ArgProg\BackEnd\src\main\java\com\portfolio\wmg\Interface\IPersonaService.java
 C:\Users\Hp\Desktop\Project ArgProg\BackEnd\src\main\java\com\portfolio\wmg\WmgApplication.java
 C:\Users\Hp\Desktop\Project ArgProg\BackEnd\src\main\java\com\portfolio\wmg\Controller\CHys.java
 C:\Users\Hp\Desktop\Project ArgProg\BackEnd\src\main\java\com\portfolio\wmg\Security\MainSecurity.java
 C:\Users\Hp\Desktop\Project ArgProg\BackEnd\src\main\java\com\portfolio\wmg\Dto\dtoEducacion.java
 C:\Users\Hp\Desktop\Project ArgProg\BackEnd\src\main\java\com\portfolio\wmg\Security\Service\RolService.java
+C:\Users\Hp\Desktop\Project ArgProg\BackEnd\src\main\java\com\portfolio\wmg\Dto\dtoPersona.java
 C:\Users\Hp\Desktop\Project ArgProg\BackEnd\src\main\java\com\portfolio\wmg\Security\Dto\JwtDto.java
 C:\Users\Hp\Desktop\Project ArgProg\BackEnd\src\main\java\com\portfolio\wmg\Entity\Educacion.java
 C:\Users\Hp\Desktop\Project ArgProg\BackEnd\src\main\java\com\portfolio\wmg\Security\jwt\JwtEntryPoint.java

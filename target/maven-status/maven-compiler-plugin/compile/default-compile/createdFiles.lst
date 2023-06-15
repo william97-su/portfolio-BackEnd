@@ -16,7 +16,6 @@ com\portfolio\wmg\Entity\Hys.class
 com\portfolio\wmg\Security\Dto\JwtDto.class
 com\portfolio\wmg\Security\Entity\UsuarioPrincipal.class
 com\portfolio\wmg\Security\Controller\Mensaje.class
-com\portfolio\wmg\Interface\IPersonaService.class
 com\portfolio\wmg\Service\Shys.class
 com\portfolio\wmg\Security\Repository\RolRepository.class
 com\portfolio\wmg\Security\Enums\RolNombre.class
@@ -25,6 +24,7 @@ com\portfolio\wmg\Service\ImpPersonaService.class
 com\portfolio\wmg\Dto\dtoHys.class
 com\portfolio\wmg\Security\Entity\Usuario.class
 com\portfolio\wmg\Controller\CExperiencia.class
+com\portfolio\wmg\Dto\dtoPersona.class
 com\portfolio\wmg\Entity\Educacion.class
 com\portfolio\wmg\Repository\REducacion.class
 com\portfolio\wmg\Controller\PersonaController.class
